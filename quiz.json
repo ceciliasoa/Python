@@ -1,0 +1,46 @@
+{
+	"1" : 
+	{
+		"pergunta":"Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+		"itens":"\na) Jânio Quadros\nb) Jacinto Anjos\nc) Getúlio Vargas\nd) João Figueiredo\ne) João Goulart",
+		"correto":"e"
+	},
+	"2":
+	{
+		"pergunta":"Qual o livro mais vendido no mundo a seguir à Bíblia?",
+		"itens":"\na) O Senhor dos Anéis\nb) Dom Quixote\nc) O Pequeno Príncipe\nd) Ela, a Feiticeira\ne) Um Conto de Duas Cidades",
+		"correto":"b"
+	},
+	"3":
+	{
+		"pergunta":"Quantas casas decimais tem o número pi?",
+		"itens":"\na) Duas\nb) Centenas\nc) Trilhares\nd) Vinte\ne) Milhares",
+		"correto":"c"
+	},
+	"4":
+	{
+		"pergunta":"De quem é a famosa frase Penso, logo existo?",
+		"itens":"\na) Platão\nb) Galileu Galilei\nc) Descartes\nd) Sócrates\ne) Francis Bacon",
+		"correto":"c"
+	},
+	"5":
+	{
+		"pergunta":"Quem é o autor de O Príncipe?",
+		"itens":"\na) Maquiavel\nb) Antoine de Saint-Exupéry\nc) Montesquieu\nd) Thomas Hobbes\ne) Rousseau",
+		"correto":"a"
+	},
+	"6":
+	{
+		"pergunta":"Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?",
+		"itens":"\na) A Filosofia\nb) A Biologia\nc) A Matemática\nd) A Astronomia\ne) A Mitologia",
+		"correto":"e"
+	},
+	"7":
+	{
+		"pergunta":"Lady Di era o apelido de qual personalidade?",
+		"itens":"\na) Chiquinha Gonzaga\nb) Joana d’Arc\nc) Carlota Joaquina\nd) Diana, a Princesa de Gales\ne) Grace Kelly",
+		"correto":"d"
+	}
+
+    
+}
